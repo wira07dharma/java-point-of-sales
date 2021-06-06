@@ -1,0 +1,184 @@
+/* 
+    Document   : main_cashierweb
+    Created on : Nov 30, 2013, 10:43:09 PM
+    Author     : dimata005
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+td {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal}
+a:hover {  text-decoration: none; color: #FF0000; font-family: Tahoma, sans-serif; font-size: 36px; font-weight: bold}
+a.submenu:hover {  color: #000000; text-decoration: underline}
+a.submenu:link {  color: #FFFFFF}
+.footer {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #FFFFFF; font-weight: normal; text-align: center}
+.tableheader {  font-weight: bold; color: #FFFFFF; background-color: #0099FF; text-align: center}
+.tablecell {  background-color: #EAF7FF}
+.tablecolor {  background-color: #0099FF}
+.tabinactive {  font-weight: bold; color: #FFFFFF; background-color: #0066CC; text-align: center}
+.tabcontent {  background-color: #EAF7FF}
+.tabactive {  background-color: #0099FF}
+.button {  color: #FFFFFF; background-color: #FFFFFF; vertical-align: middle; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold}
+a.buttonlink:hover {  color: #FF0000; text-decoration: none; font-family: Tahoma, sans-serif; font-size: 24px; font-weight: bold}
+a.buttonlink:link {  color: #0000FF; text-decoration: none; font-family: Tahoma, sans-serif; font-size: 18px; font-weight: bold}
+
+.subtableheader {
+	BACKGROUND-COLOR: #FF6666; COLOR: #FFFFFF; FONT-SIZE: 11px; FONT-WEIGHT: bold; TEXT-ALIGN: center; TEXT-TRANSFORM: none
+; font-style: normal
+}
+
+.subtable_cell {
+	BACKGROUND-COLOR: #FFEAEA; COLOR: #000000; FONT-WEIGHT: normal
+}
+
+.formtitle {
+;
+}
+
+.title {
+	FONT-SIZE: 17px; FONT-WEIGHT: bold; TEXT-ALIGN: center;  TEXT-TRANSFORM: uppercase;
+	color : Blue;
+}
+
+.formElemen {
+	font-size : 11px;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+a.buttonlink:visited {  color: #0000FF; text-decoration: none; font-family: Tahoma, sans-serif; font-size: 11px; font-weight: bold}
+body {  color: #000000; background-color: #D6EFFF; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px}
+.toptitle {  font-size: 16px; font-style: italic; color: #FFFFFF; background-color: #0066FF; font-weight: bold}
+.topmenu {  font-size: 10px; font-style: normal; color: #000000; background-color: #FFFFFF; font-weight: bold}
+.leftmenu {  font-size: 10px; font-weight: bold; color: #000000; background-color: #F2F2FF; border: #000099; border-style: solid; border-top-width: thin; border-right-width: thin; border-bottom-width: thin; border-left-width: thin}
+.leftmenutitle {  font-size: 14px; font-style: normal; font-weight: bold; color: #FFFFFF; background-color: #0000FF}
+.contenttitle {  font-size: 14px; font-style: normal; font-weight: bold}
+.footer {  font-size: 9px; color: #FFFFFF; background-color: #000099}
+.listgentitle {  font-size: 14px; font-style: normal; font-weight: bold; color: #FFFFFF; background-color: #FF8D1C; text-align: center}
+.listgensell {  color: #000000; background-color: #FFD7AE}
+.listgenselledit {  color: #000000; background-color: #CCCCCC}
+.formtitle {  font-size: 24px; font-style: normal; font-weight: bolder; color: #000000}
+a.topmnlnk:active {  color: #000000}
+a.topmnlnk:hover {  color: #000000}
+a.topmnlnk:link {  color: #000000}
+a.topmnlnk:visited {  color: #000000}
+a.bulletlnk:active {  color: #000000}
+a.bulletlnk:hover {  color: #000000}
+a.bulletlnk:link {  color: #000000}
+a.bulletlnk:visited {  color: #000000}
+.listgenedit {  font-size: 10px; font-style: normal; line-height: normal; background-color: #666666; color: #FFFFFF}
+td {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal}
+input {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.inputgen {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none;  border-style : none none none none;  border : thin;  background : White;    }
+.command {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-align: left; text-indent: 0px; white-space: normal}
+.txtheading1 {  font-size: 12px; font-style: normal; font-weight: bold}
+.numberright {  text-align: right}
+.tabtitle {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; background-color: #FFFFFF}
+.tabtitleactive { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; background-color: #0099FF}
+.tabtitlehidden { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; background-color: #E5E5E5}
+
+.msginfo
+{
+    BACKGROUND-COLOR: #cccccc;
+    COLOR: #008000;
+    FONT-SIZE: 12px;
+    TEXT-ALIGN: center
+}
+.msgquestion
+{
+    BACKGROUND-COLOR: yellow;
+    COLOR: blue;
+    FONT-SIZE: 14px;
+    FONT-WEIGHT: bolder;
+    TEXT-ALIGN: center
+}
+.msgwarning
+{
+    COLOR: #ffcc33;
+    FONT-SIZE: 12px;
+    TEXT-ALIGN: center
+}
+.systeminfo
+{
+font-size: 10px; font-weight: normal; color: #000099
+}
+.menuleft
+{
+    BACKGROUND-COLOR: #cccccc
+}
+.msgerror
+{
+    BACKGROUND-COLOR: #ffff00;
+    COLOR: #ff0000;
+    FONT-SIZE: 12px;
+    TEXT-ALIGN: center
+}
+
+.reqfield {  font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color: #0000CC}
+.errfont {  font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color: #FF0033}
+.comment {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0000CC;
+	font-style : italic;
+	font-weight : normal;
+}.fielderror {  color: #FF0000}.bullettitle1 {  font-size: 12px; font-weight: bolder; color: #FF0000}
+.bullettitle2 {  font-size: 12px; font-weight: bold}
+.bullettitle3 {  font-size: 12px; font-weight: bolder; color: #008040}
+.tabbg {  background-color: #EAF7FF}
+.listtitle {  font-family: Arial, Helvetica, sans-serif; font-weight: bold; color: #993300; font-size: 12px}
+.listheader {  font-family: Arial, Helvetica, sans-serif; font-weight: bold; color: #FFFFFF; background-color: #0099FF}
+.listcontent {  font-family: Arial, Helvetica, sans-serif; color: #666666; background-color: #FFC58A}
+.listbg {  background-color: #C9EDED}
+.mainheader { font-family: Arial, Helvetica, sans-serif; font-weight: bold; color: #993300; font-size: 13px}
+.collapsed {  DISPLAY: none  }
+.expanded {	color: black }
+.expandable {  cursor: hand}
+
+.hiddenText {
+	color: #000000;
+	background-color: #FFD7AE;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border: #FFD7AE;
+
+
+}
+.hiddenTextR {
+	color: #000000;
+	background-color: #FFD7AE;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border: #FFD7AE;
+	text-align: right;
+
+}
+
+.hiddenLabel {
+	color: #000000;
+	background-color: #fdfbfb;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border: #fdfbfb;
+	text-align: right;
+
+}
+.formElemenR {
+	font-size : 11px;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-align: right;
+
+}
+
+.activation {
+	font-size : 16px;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-align: left;
+
+}
+
+

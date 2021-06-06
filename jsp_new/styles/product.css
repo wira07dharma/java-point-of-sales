@@ -1,0 +1,57 @@
+tr.second-heading th { font-size: 12px; font-weight: normal; text-align: center; }
+.darker-table { background-color: #efefef; }
+.add-button { cursor: pointer; background-color: #d9f9b5; color: #4CAF50; margin: -9px 9px -9px -9px; padding: 9px; }
+.add-button:hover{ background-color: #8BC34A; color: #254c26; }
+.small-button { cursor: pointer; }
+.small-button.add { color:#4caf50; }
+.small-button.delete { font-size: 19px; line-height: 30px; margin-right: 10px; }
+th .n { display: none; color: #E91E63; font-size: 19px; cursor: pointer; }
+tr:hover th .n { display: unset; }
+tr:hover th .d { display: none; }
+span.select2.select2-container { width: 100% !important; }
+
+.super-form.panel-warning form { background-color: #eade9f !important; }
+span.delete, .action span.edit  { font-family: Arial, Helvetica, sans-serif; font-size: 11px; text-decoration: none; color: #0000FF; font-weight: bold; cursor:pointer; }
+
+@-webkit-keyframes yellow-fade {   
+  0% {background: #ffc107;}
+  100% {background: none;}
+}
+
+@keyframes yellow-fade {
+  0% {background: #ffc107;}
+  100% {background: none;}
+}
+@-webkit-keyframes yellow-fade2 {   
+  0% {background: #ffc107;}
+  100% {background: #efefef;}
+}
+
+@keyframes yellow-fade2 {
+  0% {background: #ffc107;}
+  100% {background: #efefef;}
+}
+
+.highlight td, .highlight th {
+  -webkit-animation: yellow-fade 2s ease-in 1;
+  animation: yellow-fade 0.5s ease-in 1;
+}
+
+.highlight .darker-table {
+  -webkit-animation: yellow-fade2 2s ease-in 1;
+  animation: yellow-fade2 0.5s ease-in 1;
+}
+
+.mainh {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: #993300;
+  font-size: 13px;
+  padding: 6px 5px;
+}
+
+body > * {
+  min-height: 0 !important;
+}
+
+.mainheader.container-fluid { min-height: 370px !important; }

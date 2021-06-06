@@ -1,0 +1,3 @@
+PATH=/media/disk/project/ProchainPosVerX/construct/jsp_new/web-inf/classes:/media/disk/jdk1.6.0_10/bin
+java -cp /media/disk/project/ProchainPosVerX/construct/jsp_new/web-inf/lib/comm.jar:/media/disk/project/ProchainPosVerX/construct/jsp_new/web-inf/lib/jdom.jar:/media/disk/project/ProchainPosVerX/construct/jsp_new/web-inf/lib/mail.jar:/media/disk/project/ProchainPosVerX/construct/jsp_new/web-inf/lib/mysql.jar:/media/disk/project/ProchainPosVerX/construct/jsp_new/web-inf/lib/poi.jar:/media/disk/project/ProchainPosVerX/construct/jsp_new/web-inf/lib/xml.jar: -noverify com.dimata.printman.PrintManSvc 1
+

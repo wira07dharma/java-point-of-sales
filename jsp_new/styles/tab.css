@@ -1,0 +1,23 @@
+.inactivebg {  background-color: #999999; background-image: url(../images/tab/inactive_bg.jpg); font-weight: normal; color: #000000}
+.activebg {  background-color: #CCCCCC; background-image: url(../images/tab/active_bg.jpg); font-weight: normal; color: #000000; text-align: left}
+.tabtext {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; text-align: center; vertical-align: middle}
+a.tablink:link {  text-decoration: none; color: #FFFFFF}
+.lmn {  font-family: Arial, Helvetica, sans-serif; font-size: 12px}
+td {  font-family: Arial, Helvetica, sans-serif; font-size: 12px}
+a.tablink:visited {  color: #FFFFFF; text-decoration: none}
+.mn {  text-decoration: underline; color: #FFFFFF}
+.menus {  font-family: Tahoma, sans-serif; font-size: 11px; font-weight: bold; color: #A73701; text-decoration: none}
+//a:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #FF0000; font-weight: bold; text-decoration: underline}
+.listgen {  border-collapse: collapse !important;
+    font-size: 11px;}
+//.listgen {  background-color: #FFFFFF}
+
+a:visited {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #0000FF; text-decoration: none}
+.hiddenTextMain {
+	color: #000000;
+	background-color: #FCFDEC;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border: #FCFDEC;
+}
+ 

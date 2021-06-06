@@ -1,0 +1,51 @@
+/* 
+    Document   : sample_menu_i
+    Created on : Aug 26, 2013, 1:49:34 PM
+    Author     : user
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+/* ---------------------- Blueslate nav ---------------------- */
+/*#tabs25{position:relative;display:block;height:68px; width: 100%; font-size:11px;font-weight:bold;background:transparent url(bg_menu.png) repeat-x;font-family:Arial,Verdana,Helvitica,sans-serif;text-transform:uppercase; overflow:auto;}
+#tabs25 ul{margin:0px;padding:0;list-style-type:none;width:auto;}
+#tabs25 ul li{display:block;float:left;margin:0 0 0 0;}
+#tabs25 ul li a{display:block;float:left;color:#D5F1FF;text-decoration:none;padding:6px 7px 0 8px;height:58px; text-align: center;}
+#tabs25 ul li a:hover,#tabs25 ul li a.current{color:#fff;background:transparent url(bg_over.png) no-repeat top center; height:65px; padding-top: 2px; font-size: 18px;}
+#tabs25 ul li a:hover img{width: 30px; padding-bottom: 0; margin-bottom: 0; margin-top: 0;}*/
+/*
+disable default
+#tabs25{position:relative;display:block;height:68px; width: 100%; font-size:11px;font-weight:bold;background-color: #0099ff;font-family:Arial,Verdana,Helvitica,sans-serif;text-transform:uppercase; overflow:auto;}
+#tabs25 ul{margin:0px;padding:0;list-style-type:none;width:auto;}
+#tabs25 ul li{display:block;float:left;margin:0 0 0 0;}
+#tabs25 ul li a{display:block;float:left;color:#D5F1FF;text-decoration:none;padding:6px 7px 0 8px;height:58px; text-align: center;}
+#tabs25 ul li a:hover,#tabs25 ul li a.current{color:#fff;background-color: #000099; height:65px; padding-top: 2px; font-size: 18px;}
+#tabs25 ul li a:hover img{width: 30px; padding-bottom: 0; margin-bottom: 0; margin-top: 0;}*/
+/* ---------------------- END Blueslate nav ---------------------- */
+
+.ow img{
+     
+    
+    position: relative;
+    display: inline-block;
+   
+-webkit-transform:scale(0.8);
+-moz-transform:scale(0.8);
+-o-transform:scale(0.8);
+-webkit-transition-duration: 0.5s;
+-moz-transition-duration: 0.5s;
+-o-transition-duration: 0.5s;
+opacity: 0.7;
+margin: 0 10px 5px 0;
+}
+
+.ow img:hover{
+-webkit-transform:scale(3.3);
+-moz-transform:scale(1.1);
+-o-transform:scale(1.1);
+opacity: 1;
+width: 60px;
+}

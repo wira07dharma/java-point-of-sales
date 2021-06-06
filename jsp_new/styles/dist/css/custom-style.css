@@ -1,0 +1,18 @@
+#head-front{        
+    background-color: #3c8dbc;
+    margin-bottom: 0px;
+}
+#foot-front{
+    width: 100%;
+    min-height: 30px;
+    background-color: #fff;
+    position: fixed;
+    bottom : 0;
+    border-top: 1px solid #d2d6de;
+    padding: 15px;
+}
+#map, #smallmap, #mapbesar{
+    height: 650px;
+
+}
+

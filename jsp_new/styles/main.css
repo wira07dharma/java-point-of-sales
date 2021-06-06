@@ -1,0 +1,316 @@
+td {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal}
+a.submenu:hover {  color: #000000; text-decoration: underline}
+a.submenu:link {  color: #FFFFFF}
+.footer {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #FFFFFF; font-weight: normal; text-align: center}
+.tableheader {  font-weight: bold; color: #FFFFFF; background-color: #0099FF; text-align: center}
+.tablecell {  background-color: #EAF7FF}
+.tablecolor {  background-color: #0099FF}
+.tabinactive {  font-weight: bold; color: #FFFFFF; background-color: #0066CC; text-align: center}
+.tabcontent {  background-color: #EAF7FF}
+.tabactive {  background-color: #0099FF}
+.button {  color: #FFFFFF; background-color: #FFFFFF; vertical-align: middle; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold}
+a.buttonlink:link {  color: #F5F5F5; text-decoration: none; font-family: Tahoma, sans-serif; font-size: 18px; font-weight: bold}
+
+.subtableheader {
+    BACKGROUND-COLOR: #FF6666; COLOR: #FFFFFF; FONT-SIZE: 11px; FONT-WEIGHT: bold; TEXT-ALIGN: center; TEXT-TRANSFORM: none
+        ; font-style: normal
+}
+
+.subtable_cell {
+    BACKGROUND-COLOR: #FFEAEA; COLOR: #000000; FONT-WEIGHT: normal
+}
+
+.formtitle {
+    ;
+}
+
+.title {
+    FONT-SIZE: 17px; FONT-WEIGHT: bold; TEXT-ALIGN: center;  TEXT-TRANSFORM: uppercase;
+    color : Blue;
+}
+
+.formElemen {
+    font-size : 11px;
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+a.buttonlink:visited {  color: #F5F5F5; text-decoration: none; font-family: Tahoma, sans-serif; font-size: 11px; font-weight: bold}
+body {  color: #000000; background-color: #D6EFFF; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px}
+.toptitle {  font-size: 16px; font-style: italic; color: #FFFFFF; background-color: #0066FF; font-weight: bold}
+.topmenu {  font-size: 10px; font-style: normal; color: #000000; background-color: #FFFFFF; font-weight: bold}
+.leftmenu {  font-size: 10px; font-weight: bold; color: #000000; background-color: #F2F2FF; border: #000099; border-style: solid; border-top-width: thin; border-right-width: thin; border-bottom-width: thin; border-left-width: thin}
+.leftmenutitle {  font-size: 14px; font-style: normal; font-weight: bold; color: #FFFFFF; background-color: #0000FF}
+.contenttitle {  font-size: 14px; font-style: normal; font-weight: bold}
+.footer {  font-size: 9px; color: #FFFFFF; background-color: #000099}
+//==============================================================================
+.listgen {
+    border-collapse: collapse !important;
+    font-size: 11px;
+}
+.listgen td {
+    border-collapse: collapse;
+    padding: 6px 8px; 
+    border: 1px solid #CCC;
+}
+//.listgentitle {  font-size: 11px; font-style: normal; font-weight: bold; color: #FFFFFF; background-color: #FF8D1C; text-align: center}
+.listgentitle {
+    font-weight: bold;
+    background-color: #DDD; 
+    color: #575757;
+}
+.listgensell {  
+    color: #000000;
+    background-color: #FFFFFF;
+    background-position: center;
+    font-size: 12px;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+//==============================================================================
+.listgenselledit {  color: #000000; background-color: #CCCCCC}
+.formtitle {  font-size: 24px; font-style: normal; font-weight: bolder; color: #000000}
+a.topmnlnk:active {  color: #000000}
+a.topmnlnk:hover {  color: #000000}
+a.topmnlnk:link {  color: #000000}
+a.topmnlnk:visited {  color: #000000}
+a.bulletlnk:active {  color: #000000}
+a.bulletlnk:hover {  color: #000000}
+a.bulletlnk:link {  color: #000000}
+a.bulletlnk:visited {  color: #000000}
+.listgenedit {  font-size: 10px; font-style: normal; line-height: normal; background-color: #666666; color: #FFFFFF}
+td {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal}
+input {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.inputgen {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none;  border-style : none none none none;  border : thin;  background : White;    }
+.command {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-align: left; text-indent: 0px; white-space: normal}
+.txtheading1 {  font-size: 12px; font-style: normal; font-weight: bold}
+.numberright {  text-align: right}
+.tabtitle {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; background-color: #FFFFFF}
+.tabtitleactive { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; background-color: #0099FF}
+.tabtitlehidden { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; background-color: #E5E5E5}
+
+.msginfo
+{
+    BACKGROUND-COLOR: #cccccc;
+    COLOR: #008000;
+    FONT-SIZE: 12px;
+    TEXT-ALIGN: center
+}
+.msgquestion
+{
+    BACKGROUND-COLOR: yellow;
+    COLOR: blue;
+    FONT-SIZE: 14px;
+    FONT-WEIGHT: bolder;
+    TEXT-ALIGN: center
+}
+.msgwarning
+{
+    COLOR: #ffcc33;
+    FONT-SIZE: 12px;
+    TEXT-ALIGN: center
+}
+.systeminfo
+{
+    font-size: 10px; font-weight: normal; color: #000099
+}
+.menuleft
+{
+    BACKGROUND-COLOR: #cccccc
+}
+.msgerror
+{
+    BACKGROUND-COLOR: #ffff00;
+    COLOR: #ff0000;
+    FONT-SIZE: 12px;
+    TEXT-ALIGN: center
+}
+
+.reqfield {  font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color: #0000CC}
+.errfont {  font-family: Arial, Helvetica, sans-serif; font-size: 9pt; color: #FF0033}
+.comment {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #0000CC;
+    font-style : italic;
+    font-weight : normal;
+}.fielderror {  color: #FF0000}.bullettitle1 {  font-size: 12px; font-weight: bolder; color: #FF0000}
+.bullettitle2 {  font-size: 12px; font-weight: bold}
+.bullettitle3 {  font-size: 12px; font-weight: bolder; color: #008040}
+.tabbg {  background-color: #EAF7FF}
+.listtitle {  font-family: Arial, Helvetica, sans-serif; font-weight: bold; color: #993300; font-size: 12px}
+.listheader {  font-family: Arial, Helvetica, sans-serif; font-weight: bold; color: #FFFFFF; background-color: #0099FF}
+.listcontent {  font-family: Arial, Helvetica, sans-serif; color: #666666; background-color: #FFC58A}
+.listbg {  background-color: #C9EDED}
+.mainheader { font-family: Arial, Helvetica, sans-serif; font-weight: bold; color: #993300; font-size: 13px}
+.collapsed {  DISPLAY: none  }
+.expanded {	color: black }
+.expandable {  cursor: hand}
+
+.hiddenText {
+    color: #000000;
+    background-color: #FFD7AE;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    border: #FFD7AE;
+
+
+}
+.hiddenTextR {
+    color: #000000;
+    background-color: #FFD7AE;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    border: #FFD7AE;
+    text-align: right;
+
+}
+
+.hiddenLabel {
+    color: #000000;
+    background-color: #fdfbfb;
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    border: #fdfbfb;
+    text-align: right;
+
+}
+.formElemenR {
+    font-size : 11px;
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    text-align: right;
+
+}
+
+input[type=text],[type=password] {
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border:1px solid rgba(233, 214, 77, 1);
+    /*border-radius:5px;*/
+    /*    height: 22px;*/
+}
+
+textarea {
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border:1px solid rgba(233, 214, 77, 1);
+    border-radius:5px;
+}
+
+input[type=text]:focus,[type=password]:focus, textarea:focus {
+    box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid rgba(81, 203, 238, 1);
+}
+
+select {
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border:1px solid rgba(233, 214, 77, 1);
+    /*border-radius:5px;*/
+}
+
+body {
+    padding: 15px;
+    background-color: #FFFFFF;//rgb(245, 247, 255) !important;
+}
+
+.btn-lg,
+.btn-group-lg , .btn {
+  padding: 6px 10px;
+  font-size: 14px;
+  line-height: 1.3333333;
+  border-radius: 6px;
+}
+
+.btn-sm,
+.btn-group-sm , .btn {
+  padding: 10px 8px;
+  font-size: 12px;
+  line-height: 1.5;
+  border-radius: 3px;
+}
+
+.btn-edit {
+    font-family: sans-serif;
+    text-decoration: none;
+    background-color: #f39c12; color: #F5F5F5; 
+    cursor: pointer;
+}
+
+.btn-delete {
+    font-family: sans-serif;
+    text-decoration: none;
+    background-color: #dd4b39; color: #F5F5F5; 
+    cursor: pointer;
+}
+
+.btn-primary {
+    font-family: sans-serif;
+    text-decoration: none;
+    background-color: #337ab7; color: #fff; 
+    cursor: pointer;
+    margin-left:10px;
+}
+
+.btn-danger {
+    font-family: sans-serif;
+    text-decoration: none;
+    background-color: d9534f; color: #F5F5F5; 
+    cursor: pointer;
+    margin-left:10px;
+}
+
+.btn-save {
+    font-family: sans-serif;
+    text-decoration: none;
+    background-color: #00a65a; color: #F5F5F5; 
+    cursor: pointer;
+}
+
+.btn-next {
+    font-family: sans-serif;
+    text-decoration: none;
+    background-color: #F6BB42; 
+    color: #fff; 
+    cursor: pointer;
+    margin:10px;
+}
+
+input[type=text], textarea{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    border:1px solid #BEBEBE;
+    padding: 7px;
+    margin:0px;
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+    outline: none;  
+}
+
+input[type=text]:focus, textarea:focus {
+    -moz-box-shadow: 0 0 8px #88D5E9;
+    -webkit-box-shadow: 0 0 8px #88D5E9;
+    box-shadow: 0 0 8px #88D5E9;
+    border: 1px solid #88D5E9;
+}
+

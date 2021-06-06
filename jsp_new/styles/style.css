@@ -1,0 +1,95 @@
+.ac_results {
+	padding: 0px;
+	border: 1px solid #ff7c08;
+	background-color: white;
+	overflow: hidden;
+}
+
+.ac_results ul {
+	width: 100%;
+	list-style-position: outside;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.ac_results li {
+	margin: 0px;
+	padding: 2px 5px;
+	cursor: default;
+	display: block;
+	color: #972800;
+	font-family:Arial, Helvetica, sans-serif;
+	/* 
+	if width will be 100% horizontal scrollbar will apear 
+	when scroll mode will be used
+	*/
+	/*width: 100%;*/
+	font-size: 12px;
+	/* 
+	it is very important, if line-height not setted or setted 
+	in relative units scroll will be broken in firefox
+	*/
+	line-height: 16px;
+	overflow: hidden;
+
+}
+
+.ac_loading {
+	background: white url('../images/indicator.gif') right center no-repeat;
+}
+
+.ac_odd {
+	background-color: #fef2d8;
+}
+
+.ac_over {
+	background-color: #febb80;
+	color: white;
+}
+
+
+.input_text{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	border:1px solid #FF7C08;
+	padding:2px;
+	width:150px;
+	color:#802900;
+	background:white url(../images/search.png) no-repeat 3px 2px;
+	padding-left:17px;
+}
+
+
+input[type=text],[type=password] {
+-webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border:1px solid #456879;
+    border-radius:5px;
+/*    height: 22px;*/
+}
+
+textarea {
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+    outline: none;
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border:1px solid #456879;
+    border-radius:5px;
+}
+
+input[type=text]:focus,[type=password]:focus, textarea:focus {
+    box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+    padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px;
+    border: 1px solid rgba(81, 203, 238, 1);
+    
+}

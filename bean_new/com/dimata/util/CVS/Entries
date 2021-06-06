@@ -1,0 +1,23 @@
+D/blob////
+D/lang////
+D/log////
+D/net////
+/Command.java/1.2/Thu Oct 12 02:38:51 2017/-ko/
+/ConvertAngkaToHuruf.java/1.1/Wed Dec 04 02:19:51 2019/-ko/
+/Currency.java/1.1/Thu Nov 24 01:54:15 2016/-ko/
+/DateCalc.java/1.2/Fri Apr 21 00:35:37 2017/-ko/
+/DocCodeGenerator.java/1.1/Thu Nov 24 01:54:15 2016/-ko/
+/Excel.java/1.1/Thu Nov 24 01:54:15 2016/-ko/
+/ExecCommand.java/1.1/Thu Nov 24 01:54:16 2016/-ko/
+/Formater.java/1.2/Thu Sep 19 08:22:47 2019/-ko/
+/LogicParser.java/1.1/Thu Nov 24 01:54:16 2016/-ko/
+/Message.java/1.1/Thu Nov 24 01:54:16 2016/-ko/
+/NumberSpeller.java/1.1/Thu Nov 24 01:54:16 2016/-ko/
+/RegionalSetting.java/1.1/Thu Nov 24 01:54:15 2016/-ko/
+/Round.java/1.1/Mon Nov 12 01:34:09 2018/-ko/
+/StreamGobbler.java/1.1/Thu Nov 24 01:54:16 2016/-ko/
+/StringCompare.java/1.1/Thu Nov 24 01:54:16 2016/-ko/
+/StringReplace.java/1.1/Thu Nov 24 01:54:16 2016/-ko/
+/Validator.java/1.1/Thu Nov 24 01:54:16 2016/-ko/
+/WeekDay.java/1.1/Thu Nov 24 01:54:15 2016/-ko/
+/YearMonth.java/1.1/Thu Nov 24 01:54:16 2016/-ko/

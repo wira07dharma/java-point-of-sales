@@ -1,0 +1,15 @@
+Dialog and InternalFrame differ
+
+
+extends class 		javax.swing.JDialog			javax.swing.JInternalFrame 
+constructor param	java.awt.Frame parent, boolean modal 	none
+constructor patern	super(parent, modal);			initComponents();
+        		initComponents();
+initComponent differ	setDefaultCloseOperation(javax.swing.	none
+			WindowConstants.DISPOSE_ON_CLOSE);
+main methode		applicable				n/a
+main code		new TestDialog(new 			n/a
+			javax.swing.JFrame(), true).show();
+
+
+		

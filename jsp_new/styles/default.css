@@ -1,0 +1,379 @@
+INPUT {
+	font : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	}
+A.footerLink:link {
+	COLOR: #3300ff; TEXT-DECORATION: underline
+}
+A.footerLink:visited {
+	COLOR: #9933ff; TEXT-DECORATION: underline
+}
+
+A.menu:LINK {
+	COLOR: #1E90FF; TEXT-DECORATION: none;
+}
+
+A.menu:HOVER {
+	COLOR: blue; TEXT-DECORATION: underline;
+	font-weight : bold;
+}
+
+A.menu:VISITED {
+	COLOR: #9933ff; TEXT-DECORATION: underline
+}
+
+.subtableheader {
+	BACKGROUND-COLOR: #FF6666; COLOR: #A85400; FONT-SIZE: 11px; FONT-WEIGHT: bold; TEXT-ALIGN: center; TEXT-TRANSFORM: none
+}
+
+.subtable_cell {
+	BACKGROUND-COLOR: #FFFFFF; COLOR: #000000; FONT-WEIGHT: normal
+}
+
+
+.cellStyle {
+	BACKGROUND: #ff9a63; COLOR: black
+}
+
+.styleCell {
+	BACKGROUND: #DDDDDD; COLOR: Black;
+	text-align : right;
+}
+.styleTotal {
+	BACKGROUND: Black; COLOR: White;
+	text-align : right;
+}
+
+.listarea {
+	 COLOR: black
+}
+
+.listtitle {
+	COLOR: black
+}
+.listheader {
+	BACKGROUND: #f27900; COLOR: white; FONT-SIZE: 10px; FONT-WEIGHT: bold; TEXT-TRANSFORM: uppercase
+}
+
+.menuheader {
+	BBACKGROUND-COLOR: #cc6600; COLOR: #ffffff; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-ALIGN: right; TEXT-TRANSFORM: none;
+	background : #D2691E;
+}
+
+.cellStyle {
+	BACKGROUND: #FBD1A8; COLOR: black
+}
+A.footerLink:hover {
+	COLOR: #ff0066; TEXT-DECORATION: none; font-size: 11px; font-weight: bold
+}
+A.menuLink:link {
+	COLOR: #3300ff; FONT-SIZE: 11px; TEXT-DECORATION: underline
+}
+A.menuLink:visited {
+	COLOR: #3300ff; FONT-SIZE: 11px; TEXT-DECORATION: underline
+}
+.msgquestion {
+	COLOR: red; FONT-SIZE: 11px; FONT-STYLE: italic; FONT-WEIGHT: normal;
+}
+A.menuLink:hover {
+	COLOR: #ff0000; FONT-SIZE: 11px; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: Blue; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: Blue; TEXT-DECORATION: none;
+}
+A:hover {
+	COLOR: Blue; TEXT-DECORATION: underline
+}
+BODY {
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; FONT-SIZE: 11px;
+}
+TD {
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; FONT-SIZE: 11px;
+}
+.submenu {
+	COLOR: #00ccff; FONT-FAMILY: "Times New Roman", Times, serif; FONT-SIZE: 10px; TEXT-TRANSFORM: none
+}
+.titleText {
+	COLOR: black; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; FONT-SIZE: 14px; FONT-WEIGHT: bold; TEXT-ALIGN: center
+}
+.footer {
+	COLOR: #000066; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; FONT-SIZE: 10px
+}
+.submenubold {
+	COLOR: #ffffff; FONT-FAMILY: "Times New Roman", Times, serif; FONT-SIZE: 10px; FONT-WEIGHT: bold
+}
+.tablebg {
+	BACKGROUND-COLOR: #cc6600; COLOR: #ffff66; MARGIN: 1px
+}
+.bigtitle {
+	FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; FONT-SIZE: 25px; FONT-WEIGHT: bolder
+}
+.tableheader {
+	BACKGROUND-COLOR: #F27900; COLOR: #ffffff; FONT-SIZE: 11px; FONT-WEIGHT: bold; TEXT-ALIGN: center; TEXT-TRANSFORM: none
+}
+
+.tableHeaderLedger {
+	BACKGROUND-COLOR: #cc6600; COLOR: #ffffff; FONT-SIZE: 11px; FONT-WEIGHT: bold; TEXT-ALIGN: center; TEXT-TRANSFORM: none
+}
+
+.table_cell {
+	BACKGROUND-COLOR: #fbd1a8; COLOR: #000000; FONT-WEIGHT: normal
+}
+.menucontent {
+	COLOR: #000000; CURSOR: hand; FONT-FAMILY: "Times New Roman", Times, serif; FONT-SIZE: 16px; FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+.tablemenu {
+	COLOR: #000099; FONT-FAMILY: "Times New Roman", Times, serif
+}
+.errMsg {
+	BACKGROUND-COLOR: #ffff00; COLOR: #ff0000; FONT-FAMILY: "Times New Roman", Times, serif; FONT-SIZE: 12px; TEXT-ALIGN: center
+}
+
+.styleEdited {
+	BACKGROUND-COLOR: #1E90FF; COLOR: White; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;  TEXT-ALIGN: center
+}
+
+.errfont {
+	COLOR: #ff0000; FONT-SIZE: 12px;
+}
+.msginfo {
+	COLOR: Green;  FONT-SIZE: 11px; FONT-STYLE: italic;
+	font-weight : normal;
+  }
+
+A.command1:LINK {
+	COLOR: Blue;  FONT-SIZE: 11px;
+	text-decoration : underline;
+	 }
+
+A.command1:HOVER {
+	COLOR: Red;  FONT-SIZE: 11px; 	text-decoration : none;
+; font-weight: bold
+	}
+
+A.roomLink:LINK {
+	   	text-decoration : none;
+	color : Blue;
+}
+
+A.roomLink:VISITED {
+	   	text-decoration : none;
+	color : Blue;
+}
+
+A.roomLink:HOVER {
+	   	text-decoration : none;
+	color : #E0FFFF;
+}
+
+
+
+
+A.command1:VISITED {
+	COLOR: Blue;  FONT-SIZE: 11px;
+	text-decoration : underline;
+	 }
+
+A.itemLink:LINK {
+	COLOR: Blue;  	text-decoration : none;
+	font-weight : bold;
+}
+
+A.itemLink:HOVER {
+	color : Red;
+	font-weight : bold;
+}
+
+
+
+
+
+.listtitle {
+	FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.listheader {
+COLOR: #ffffff; FONT-SIZE: 10px; FONT-WEIGHT: bold; TEXT-ALIGN: center
+}
+.listtable {
+	COLOR: #993300
+}
+.bg {
+	BACKGROUND-COLOR: #993300
+}
+
+.formElemen {
+	font-size : 11px;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+
+.styleNotAv{
+	BACKGROUND-COLOR: #777777;
+	color : White;
+	white-space : nowrap;
+	text-align : center;
+}
+
+.styleRsvGua{
+	BACKGROUND-COLOR: #EEE8AA;
+	white-space : nowrap;
+	text-align : center;
+; color: #000066
+}
+
+.styleRsvGuaByDep{
+	BACKGROUND-COLOR: #C1F0C1;
+	white-space : nowrap;
+	text-align : center;
+; color: #000099
+}
+
+.styleRsvNotGua {
+	BACKGROUND-COLOR: #B4E1FA;
+	white-space : nowrap;
+	text-align : center;
+; color: #000066
+}
+
+.styleCheckIn{
+	BACKGROUND-COLOR: #FF1493;
+	color : #000066;
+	white-space : nowrap;
+	text-align : center;
+}
+
+.styleAv {
+	BACKGROUND-COLOR: White;
+	white-space : nowrap;
+	text-align : center;
+	}
+
+.styleCancelled{
+	BACKGROUND-COLOR: #E0FFFF;
+	white-space : nowrap;
+	text-align : center;
+}
+
+
+
+.styleCheckOut{
+	BACKGROUND-COLOR: #FFFACD;
+	white-space : nowrap;
+	text-align : center;
+; color: #000066
+}
+
+.styleJoin {
+	BACKGROUND-COLOR: #9932CC;
+	white-space : nowrap;
+	text-align : center;
+	color : #E0FFFF;
+}
+
+
+.styleDelayedCheckOut{
+	BACKGROUND-COLOR: #FFF0F5;
+	white-space : nowrap;
+	text-align : center;
+}
+
+
+.styleNotAvL{
+	BACKGROUND-COLOR: #777777;
+	color : White;
+	white-space : nowrap;
+	text-align : right;
+}
+
+.styleRsvGuaL{
+	BACKGROUND-COLOR: #EEE8AA;
+	white-space : nowrap;
+	text-align : right;
+}
+
+.styleRsvGuaByDepL {
+	BACKGROUND-COLOR: #C1F0C1;
+	white-space : nowrap;
+	text-align : right;
+}
+
+.styleRsvNotGuaL {
+	BACKGROUND-COLOR: #B4E1FA;
+	white-space : nowrap;
+	text-align : right;
+}
+
+.styleCheckInL {
+	BACKGROUND-COLOR: #FF1493;
+	color : White;
+	white-space : nowrap;
+	text-align : right;
+}
+
+.styleAvL {
+	BACKGROUND-COLOR: White;
+	white-space : nowrap;
+	text-align : right;
+	}
+
+.styleCancelledL {
+	BACKGROUND-COLOR: #E0FFFF;
+	white-space : nowrap;
+	text-align : right;
+}
+
+
+
+.styleCheckOutL {
+	BACKGROUND-COLOR: #FFFACD;
+	white-space : nowrap;
+	text-align : right;
+}
+
+.styleJoinL {
+	BACKGROUND-COLOR: #9932CC;
+	white-space : nowrap;
+	text-align : right;
+	color : #E0FFFF;
+}
+
+
+.styleDelayedCheckOutL {
+	BACKGROUND-COLOR: #FFF0F5;
+	white-space : nowrap;
+	text-align : right;
+}
+
+
+
+
+
+
+.title {
+	FONT-SIZE: 17px; FONT-WEIGHT: bold; TEXT-ALIGN: center;  TEXT-TRANSFORM: uppercase;
+	color : Blue;
+}
+.titleLeft {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #0033ff; FONT-SIZE: 19px; FONT-WEIGHT: bold; TEXT-ALIGN: left; TEXT-DECORATION: underline; TEXT-TRANSFORM: uppercase
+}
+.msgerror {
+	BACKGROUND: #ffff99; COLOR: #ff3300; FONT-SIZE: 12px
+}
+.bigtitleflash { FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; FONT-SIZE: 14px; FONT-WEIGHT: bolder ; text-decoration: blink}
+.comment {  font-style: italic; color: navy; font-size: 12px}
+.styleDirty {  background-color: #660099}
+.textalign {  text-align: right; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px}
+.blockLink {  font-size: 10px; color: #000066}
+.outletheader {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #000000; background-color: #CCCCCC; text-align: center; text-transform: uppercase}
+.outlettable {  background-color: #CCCCCC}
+.outletcontent {  background-color: #FFFFCC; color: #000000}
+.outletcellcenter {  text-align: center}
+.menu {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #FFFFFF; text-decoration: none}
+.titletop {  font-family: Arial, Helvetica, sans-serif; font-size: 24px; font-style: normal; font-weight: bolder}
+.menubar {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #FFFF00; background-color: #0000CC}
+.collapsed {  DISPLAY: none  }
+.expanded {	color: black }
+.expandable {  cursor: hand}
+

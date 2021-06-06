@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="null" language="groovy" pageWidth="802" pageHeight="555" orientation="Landscape" columnWidth="802" leftMargin="0" rightMargin="0" topMargin="0" bottomMargin="0" uuid="6c90c537-8263-4c33-aea6-5c2e636831fa">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<subDataset name="dataset1" uuid="bdebd34a-23fb-4b15-9b95-31c052669296"/>
+	<queryString language="SQL">
+		<![CDATA[SELECT * FROM `aiso_data_tabungan` dt
+JOIN `aiso_anggota` a ON a.`ID_ANGGOTA`=dt.`ID_ANGGOTA`]]>
+	</queryString>
+	<field name="TANGGAL" class="java.sql.Date"/>
+	<field name="JUMLAH" class="java.lang.Double"/>
+	<group name="TANGGAL">
+		<groupExpression><![CDATA[$F{TANGGAL}]]></groupExpression>
+	</group>
+	<group name="JUMLAH">
+		<groupExpression><![CDATA[$F{JUMLAH}]]></groupExpression>
+	</group>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="79" splitType="Stretch"/>
+	</title>
+	<pageHeader>
+		<band height="35" splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="61" splitType="Stretch">
+			<componentElement>
+				<reportElement uuid="bb70d452-190c-4885-8832-3bf8db77598a" x="405" y="37" width="400" height="50"/>
+				<jr:list xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<datasetRun subDataset="dataset1" uuid="f144b3aa-9f83-4a17-9186-2e871fc8ff6e">
+						<dataSourceExpression><![CDATA[new net.sf.jasperreports.engine.JREmptyDataSource(1)]]></dataSourceExpression>
+					</datasetRun>
+					<jr:listContents height="50" width="0"/>
+				</jr:list>
+			</componentElement>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="125" splitType="Stretch"/>
+	</detail>
+	<columnFooter>
+		<band height="45" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="42" splitType="Stretch"/>
+	</summary>
+</jasperReport>
