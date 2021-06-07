@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Context path="/pocin">
-  <Logger className="org.apache.catalina.logger.FileLogger" prefix="ProchainPosVerX." suffix=".log" timestamp="true"/>
-</Context>
